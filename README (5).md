@@ -1,4 +1,3 @@
-
 # Student teacher model
 
 Report the performance of the student network and compare it with the teacher model. Also
